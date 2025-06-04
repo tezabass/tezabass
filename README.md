@@ -1,6 +1,5 @@
 Hi, my name is Benjamin 👋
-- 👀 I’m interested in home automation, file syncing, deep learning, crypto and forex trading
-- 🌱 I’m currently learning python
+- 👀 I’m interested in deep learning, CI/CD, crypto and forex trading
 
 <!---
 tezabass/tezabass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
